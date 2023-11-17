@@ -1,0 +1,17 @@
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100vh;
+  display: grid;
+}
+.modal-content {
+  background-color: white;
+  width: 500px;
+  margin: auto;
+  height: 200px;
+  text-align: center;
+  align-items: center;
+}
